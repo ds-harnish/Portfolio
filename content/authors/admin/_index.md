@@ -1,51 +1,41 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Harnish Shah
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Harnish
+last_name: Shah
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: General Assemby
-    url: https://www.stanford.edu/
+    url: https://www.generalassemb.ly/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - Machine Learning
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Data Science
+      institution: General Assembly
+      year: 2024
+    - course: Bachelors in Biomedical & Instrumentation Engineering
+      institution: Saurashtra University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+  
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -56,15 +46,20 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Generative AI
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: brain
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
+        icon_pack: fas
+      - name: Tableau
+        description: ''
+        percent: 40
+        icon: chart-line
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -75,15 +70,20 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
-      - name: Photography
+      - name: games
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: gamepad
+        icon_pack: fas
+      - name: Soccer
+        description: ''
+        percent: 80
+        icon: futbol
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,29 +96,31 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/harnishpeaks
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ds-harnish
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/harnishshah25/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Harnish Shah DSB Trial.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Data scientist with a background inthe  Medical Devices Industry. For nearly a decade I worked to design, test and optimize medical devices for communities worldwide. I've spent the past year sifting through the unstructured data to drive business desicions with insights -- and I love it! With my analytical reasoning and communication skills, I am looking for opportunities where I can resolve problems before they develop.
+
+
 {style="text-align: justify;"}
