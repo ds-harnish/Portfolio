@@ -13,9 +13,9 @@ superuser: true
 role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#  - name: General Assemby
-#    url: https://www.generalassemb.ly/
+organizations:
+  - name: General Assemby
+    url: https://www.generalassemb.ly/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
