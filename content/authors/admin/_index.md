@@ -43,14 +43,9 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Generative AI
-        description: ''
-        percent: 70
-        icon: brain
-        icon_pack: fas
       - name: SQL
         description: ''
         percent: 80
@@ -58,8 +53,18 @@ skills:
         icon_pack: fas
       - name: Tableau
         description: ''
-        percent: 40
+        percent: 50
         icon: chart-line
+        icon_pack: fas
+      - name: Machine Learning
+        description: ''
+        percent: 85
+        icon: code-branch
+        icon_pack: fas
+      - name: Generative AI
+        description: ''
+        percent: 65
+        icon: brain
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -67,23 +72,28 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 90
         icon: person-hiking
         icon_pack: fas
-      - name: Dogs
+      - name: gardening
         description: ''
-        percent: 100
-        icon: dog
+        percent: 70
+        icon: seedling
         icon_pack: fas
-      - name: games
+      - name: boardgames
         description: ''
         percent: 80
-        icon: gamepad
+        icon: dice
         icon_pack: fas
       - name: Soccer
         description: ''
-        percent: 80
+        percent: 75
         icon: futbol
+        icon_pack: fas
+      - name: Travel
+        description: ''
+        percent: 76
+        icon: earth-americas
         icon_pack: fas
 
 # Social/Academic Networking
