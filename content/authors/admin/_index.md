@@ -18,7 +18,7 @@ role: Data Scientist
 #    url: https://www.generalassemb.ly/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include Machine Learning, Generative AI and anything data matter.
 
 # Interests to show in About widget
 interests:
@@ -75,11 +75,6 @@ skills:
         percent: 90
         icon: person-hiking
         icon_pack: fas
-      - name: gardening
-        description: ''
-        percent: 70
-        icon: seedling
-        icon_pack: fas
       - name: boardgames
         description: ''
         percent: 80
@@ -89,6 +84,11 @@ skills:
         description: ''
         percent: 75
         icon: futbol
+        icon_pack: fas
+      - name: gardening
+        description: ''
+        percent: 70
+        icon: seedling
         icon_pack: fas
       - name: Travel
         description: ''

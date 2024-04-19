@@ -3,18 +3,15 @@ title:  Data Science into Traditional Retail Organization
 summary: This project paints a scenario in a traditional retail company where the management committee is aiming to transit the company into a more data-driven organization by building an internal team to consistently conduct market research on their customers and products.
 #tags:
 #  - Demo
-#date: "2016-04-27T00:00:00Z"
+date: "2024-04-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: https://example.org
 
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+#image:
+#  caption: Photo by Toa Heftiba on Unsplash
+#  focal_point: Smart
 ---
-
-
-
 
 # Project: Introducing Data Science into Traditional Retail Organization
 

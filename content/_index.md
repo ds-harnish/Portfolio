@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 👋Hello there! I'm Harnish
+      title: 👋Hello there!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -64,7 +64,7 @@ sections:
       items:
         - title: Data Scientist | Apprenticeship
           company: General Assembly
-          company_url: 'https://www.somatechnology.com/'
+          company_url: 'https://generalassemb.ly/'
           company_logo: GAlogo
           location: Remote
           date_start: '2024-01-01'
@@ -88,9 +88,9 @@ sections:
           description: '
               Responsibilities include:
 
-              * Analyze large amounts of data and develop statistical models to find patterns and solve problems that will help drive strategic business decisions.
+              * Analyze large amounts of data and develop statistical models to find patterns and solve problems that helped bring down the service costs of the company over 1M annually. 
 
-              * Design and implementation of machine learning solutions using regression, model, clustering (KNN, K means, Bayesian, Mean-shift), statistical profiling, inference, classification, and predictive analysis. 
+              * Design and implementation of machine learning solutions using regression, model, clustering (KNN, K means, Bayesian), statistical profiling, inference, classification, and predictive analysis and it increased the efficiency of field service engineers and the service team by reducing the overall breakdown visits to the healthcare organizations by more than 50%.  
               
               * Working knowledge of medical device and combination product regulations and standards such as 21 CFR Part 4,21 CFR 820, ISO 13485, and ISO 14971 
               
@@ -139,15 +139,6 @@ sections:
           organization_url: https://www.databricks.com
           title: Academy Accreditation - Generative AI Fundamentals
           url: ''
-#        - certificate_url: https://www.datacamp.com
-#          date_end: '2020-12-21'
-#          date_start: '2020-07-01'
-#          description: ''
-#          icon: image2vector
-#          organization: DataCamp
-#          organization_url: https://www.datacamp.com
-#          title: 'Object-Oriented Programming in R'
-#          url: ''
     design:
       columns: '2'
 #  - block: collection
