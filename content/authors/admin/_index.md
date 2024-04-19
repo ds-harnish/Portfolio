@@ -130,7 +130,7 @@ social:
 highlight_name: true
 ---
 
-Data scientist with a background in the  Medical Devices Industry. For nearly a decade I worked to design, test and optimize medical devices for communities worldwide. I've spent the past year sifting through the unstructured data to drive business desicions with insights -- and I love it! With my analytical reasoning and communication skills, I am looking for opportunities where I can resolve problems before they develop.
+A Data Scientist with a background in the  Medical Devices Industry. For nearly a decade I worked to design, test and optimize medical devices for communities worldwide. I've spent the past year sifting through the unstructured data to drive business desicions with insights -- and I love it! With my analytical reasoning and communication skills, I am looking for opportunities where I can resolve problems before they develop.
 
 
 {style="text-align: justify;"}
