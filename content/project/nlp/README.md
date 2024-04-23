@@ -14,10 +14,6 @@ image:
   focal_point: Smart
 ---
 
-
-
-# Project 3: Web APIs & NLP
---- 
 ## Introduction and Problem Statement
 ---
 As part of the marketing team for the series Star Trek: Discovery coming out in 2024, the stakeholders have instructed our team to conduct a NLP research on Star Trek and our competitor, Star Wars using Reddit. As we will be working with various Search Engines to publish our advertisements, this research seeks to come out with a classification model for a more effective advertising campaigns for Star Trek. Besides the classification model, this research will also address the following:

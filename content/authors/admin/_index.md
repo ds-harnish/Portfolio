@@ -25,6 +25,7 @@ interests:
   - Machine Learning
   - Artificial Intelligence
   - Data Analysis
+  - Predictive Modeling
 
 # Education to show in About widget
 education:
