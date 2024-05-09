@@ -54,7 +54,7 @@ skills:
         icon_pack: fas
       - name: Tableau
         description: ''
-        percent: 50
+        percent: 78
         icon: chart-line
         icon_pack: fas
       - name: Machine Learning
@@ -64,7 +64,7 @@ skills:
         icon_pack: fas
       - name: Generative AI
         description: ''
-        percent: 65
+        percent: 75
         icon: brain
         icon_pack: fas
   - name: Hobbies
@@ -88,12 +88,12 @@ skills:
         icon_pack: fas
       - name: gardening
         description: ''
-        percent: 70
+        percent: 78
         icon: seedling
         icon_pack: fas
       - name: Travel
         description: ''
-        percent: 76
+        percent: 85
         icon: earth-americas
         icon_pack: fas
 
